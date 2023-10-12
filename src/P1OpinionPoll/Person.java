@@ -1,6 +1,4 @@
-package OpinionPoll;
-
-import java.util.Comparator;
+package P1OpinionPoll;
 
 public class Person{
 

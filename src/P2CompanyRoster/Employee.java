@@ -1,4 +1,4 @@
-package CompanyRoster;
+package P2CompanyRoster;
 
 public class Employee {
 

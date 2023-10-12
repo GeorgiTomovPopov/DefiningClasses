@@ -1,4 +1,4 @@
-package OpinionPoll;
+package P1OpinionPoll;
 
 import java.util.ArrayList;
 import java.util.Comparator;

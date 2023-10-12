@@ -1,4 +1,4 @@
-package CompanyRoster;
+package P2CompanyRoster;
 
 import java.util.*;
 import java.util.stream.Collectors;
