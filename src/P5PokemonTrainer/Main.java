@@ -76,6 +76,7 @@ public class Main {
                     currentPokemon.setHealth(currentPokemon.getHealth() - 10);
                     if (currentPokemon.getHealth() <= 0) {
                         pokemonLineUp.remove(currentPokemon);
+                        j--;
                     }
                 }
 
